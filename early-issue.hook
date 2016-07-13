@@ -1,0 +1,5 @@
+run_hook () {
+	hook_name="early-issue"
+	cat /etc/early-issue
+}
+

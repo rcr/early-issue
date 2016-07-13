@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+build() {
+	SCRIPT="early-issue"
+	add_binary "cat"
+	add_file "/etc/early-issue"
+	add_runscript
+}
+

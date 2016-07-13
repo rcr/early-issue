@@ -58,4 +58,3 @@ LEGAL
 Provided as is. Use as you wish, attribute if you want I don't care.  
 Also, I'm not responsable for anything you do with this. IE if you do something stupid you're just stupid.  
 
-
